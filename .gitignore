@@ -12,3 +12,5 @@ wheels/
 # data files
 Eye_fundus/
 RORPO2D/
+
+opencv_sed_model.yml.gz
