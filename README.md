@@ -1,0 +1,1 @@
+This repository contains the code related to the project by Fotios Kapotos and Jean-Vincent Martini for the "Modern Mathematical Morphology" course at CentraleSupélec. All the content, including the code and explanations, is available in the `Vessel_Segmentation_KAPOTOS_MARTINI.ipynb` Jupyter notebook. 
